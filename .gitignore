@@ -1,3 +1,4 @@
 edt_vendor.cmd
 .vscode/launch.json
 logs.root_IS_UNDEFINED/console_executor.log
+_edt_vendor.cmd
